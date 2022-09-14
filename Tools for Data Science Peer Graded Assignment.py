@@ -37,9 +37,3 @@ print(a+b)
 # ~~This is an example of strikethrough~~
 # 
 # This is the link to my [GitHub Page](https://github.com/saadijaz1/saadijaz1).
-
-# In[ ]:
-
-
-
-
